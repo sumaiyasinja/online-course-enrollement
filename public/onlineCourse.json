@@ -1,0 +1,75 @@
+[
+    {
+        "id": 0,
+        "course_name": "C Programming Fundamentals",
+        "course_description": "Master the fundamentals of C programming language.",
+        "price": 15000,
+        "credit": 1,
+        "img": "https://i.ibb.co/M7059b6/Rectangle-2-2.png"
+    },
+    {
+        "id": 1,
+        "course_name": "Introduction to OOP Python",
+        "course_description": "Learn object-oriented programming (OOP) in Python.",
+        "price": 15000,
+        "credit": 4,
+        "img": "https://i.ibb.co/LRrYb7h/Rectangle-2.png"
+    },
+    {
+        "id": 2,
+        "course_name": "MySQL Database Management",
+        "course_description": "Become proficient in MySQL database administration and SQL.",
+        "price": 19000,
+        "credit": 4,
+        "img": "https://i.ibb.co/ZVJQzbN/Rectangle-2-1.png"
+    },
+    {
+        "id": 3,
+        "course_name": "Algorithms ",
+        "course_description": "Explore advanced algorithms.Learn from the scratch. ",
+        "price": 25000,
+        "credit": 2,
+        "img": "https://i.ibb.co/qY7bykB/Rectangle-2-3.png"
+    },
+    {
+        "id": 4,
+        "course_name": "Introduction to C++ for DSA",
+        "course_description": "Advance your C++ programming skills with Data Structure topics.",
+        "price": 10000,
+        "credit": 10,
+        "img": "https://i.ibb.co/z4wSsJL/Rectangle-2-4.png"
+    },
+    {
+        "id": 5,
+        "course_name": "AWS Cloud Computing",
+        "course_description": "Learn cloud computing with Amazon Web Services (AWS).",
+        "price": 35000,
+        "credit": 5,
+        "img": "https://i.ibb.co/ydn0r0q/Rectangle-3-1.png"
+    },
+    {
+        "id": 6,
+        "course_name": "Software Engineering",
+        "course_description": "Understand software engineering best practices and methodologies.",
+        "price": 23000,
+        "credit": 2,
+        "img": "https://i.ibb.co/F4BM4NJ/Rectangle-2-5.png"
+    },
+    {
+        "id": 7,
+        "course_name": "Basic Data Structures ",
+        "course_description": "Explore data structures implementation.",
+        "price": 35000,
+        "credit": 5,
+        "img": "https://i.ibb.co/tpLcNFn/Rectangle-3.png"
+    },
+
+    {
+        "id": 8,
+        "course_name": "Problem-Solving Part",
+        "course_description": "Basic problem solving series with C++ programming.",
+        "price": 23000,
+        "credit": 2,
+        "img": "https://i.ibb.co/XjjngLq/Rectangle-2-6.png"
+    }
+]
